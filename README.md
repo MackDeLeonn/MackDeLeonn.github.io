@@ -61,12 +61,15 @@ yourself:
             padding: 15px;
             margin-bottom: 10px;
         }
+        .fun-fact {
+            backgrounf: #333
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <header class="main-info">
-            <h1>Your Name: [Your Full Name]</h1>
+            <h1>Your Name: Mackenzie DeLeon]</h1>
             <p>Preferred Name: [Your Preferred Name]</p>
             <p>Current/Recent Job Title: [Your Job Title]</p>
         </header>
